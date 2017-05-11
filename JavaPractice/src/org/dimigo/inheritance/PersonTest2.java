@@ -32,7 +32,7 @@ public class PersonTest2 {
 		for (Person person : p){
 			greeting(person);
 		}
-		 
+		
 	}
 	private static void greeting(Person p){
 		System.out.println(p);
